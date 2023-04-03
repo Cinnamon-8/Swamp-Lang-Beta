@@ -10,11 +10,9 @@ A simple programming Language
 # Syntax
 
 
-
  * Grammars:
  *  keyword:print String|var
  *  keyword:var variable_name = String
-
 
 
 # Example
